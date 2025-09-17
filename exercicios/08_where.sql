@@ -3,4 +3,4 @@
 SELECT *
 from transacao_produto
 
-WHERE IdProduto = 15
+WHERE IdProduto = 15  
