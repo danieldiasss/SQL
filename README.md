@@ -9,11 +9,7 @@ Este repositório contém os arquivos utilizados durante o curso de SQL do canal
 
 - `exercicios/`  
   Scripts SQL com os principais comandos estudados:
-  - `01_select.sql`
-  - `02_tables.sql`
-  - `03_select_from.sql`
-  - `04_select_from_where.sql`
-  - `05_select_col.sql`
+ 
  
 - Arquivos de apoio:
   - `clientes.csv`
