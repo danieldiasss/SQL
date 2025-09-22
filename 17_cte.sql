@@ -12,7 +12,7 @@
 -- AND substr(DtCriacao,1,10) = '2025-08-29'  
 
 
--- Colocou um nome em uma Query
+-- Colocou um nome em uma Query----
 WITH tb_cliente_primeiro_dia AS(
 
     SELECT DISTINCT IdCliente
